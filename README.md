@@ -25,4 +25,4 @@
 <li>👀 I’m interested in <b>Web Development</b>, <b>App Development</b>, <b>AI & ML</b> </li>
  <li>💞️ I’m looking to collaborate on <b>Laravel</b>, <b>AI</b>, <b>VueJs</b>, <b>Flutter</b>. </li>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=rupesh-10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://camo.githubusercontent.com/5aad64a260d5c3e92c8537312f1bc96c1efbbfa6c02224d985c3a4323c62049e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7275706573682d3130262673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666666666662669636f6e5f636f6c6f723d62623261636626746578745f636f6c6f723d6461663764632662675f636f6c6f723d313531353135">
