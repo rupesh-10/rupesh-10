@@ -22,6 +22,8 @@
 
 </div>
 <hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-10">
+<hr>
 <li>👀 I’m interested in <b>Web Development</b>, <b>App Development</b>, <b>AI & ML</b> </li>
  <li>💞️ I’m looking to collaborate on <b>Laravel</b>, <b>AI</b>, <b>VueJs</b>, <b>Flutter</b>. </li>
 <hr>
