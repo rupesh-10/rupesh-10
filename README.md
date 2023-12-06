@@ -11,8 +11,9 @@
 <h5>Languages & Frameworks </h5>
 <div style="display:flex">
 <img src="https://www.svgrepo.com/show/452092/react.svg" width="60" height="60" alt="React">
+<img src="https://www.svgrepo.com/show/342062/next-js.svg" width="60" height="60" alt="Next Js">
 <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="60" height="60">
-<img src="https://uploads.sitepoint.com/wp-content/uploads/2023/03/1678146904vue-logo.jpg" alt="Vue" width="60" height="60">
+<img src="https://www.svgrepo.com/show/452130/vue.svg" alt="Vue" width="60" height="60">
 <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP logo" width="60" height="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width:100%;">
