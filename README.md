@@ -10,7 +10,7 @@
 <hr>
 <h5>Languages & Frameworks </h5>
 <div style="display:flex">
-<img src="https://www.mindinventory.com/blog/wp-content/uploads/2023/05/react-logo.webp" width="60" height="60" alt="React">
+<img src="https://www.svgrepo.com/show/452092/react.svg" width="60" height="60" alt="React">
 <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="60" height="60">
 <img src="https://uploads.sitepoint.com/wp-content/uploads/2023/03/1678146904vue-logo.jpg" alt="Vue" width="60" height="60">
 <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP logo" width="60" height="60">
