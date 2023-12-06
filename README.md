@@ -10,9 +10,10 @@
 <hr>
 <h5>Languages & Frameworks </h5>
 <div style="display:flex">
+<svg width="100%" height="100%" viewBox="-10.5 -9.45 21 18.9" fill="none" xmlns="http://www.w3.org/2000/svg" class="mt-4 mb-3 text-link dark:text-link-dark w-24 lg:w-28 self-center text-sm me-0 flex origin-center transition-all ease-in-out"><circle cx="0" cy="0" r="2" fill="currentColor"></circle><g stroke="currentColor" stroke-width="1" fill="none"><ellipse rx="10" ry="4.5"></ellipse><ellipse rx="10" ry="4.5" transform="rotate(60)"></ellipse><ellipse rx="10" ry="4.5" transform="rotate(120)"></ellipse></g></svg>
 <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="60" height="60">
 <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP logo" width="60" height="60">
-<img src="https://vuejs.org/images/logo.svg" alt="Vue logo" width="60" height="60">
+<svg class="logo" viewBox="0 0 128 128" width="24" height="24" data-v-b6bac375=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-b6bac375=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-b6bac375=""></path></svg>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width:100%;">
