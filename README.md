@@ -10,7 +10,7 @@
 <hr>
 <h5>Languages & Frameworks </h5>
 <div style="display:flex">
-<img src="https://w7.pngwing.com/pngs/831/155/png-transparent-game-react-native-javascript-android-physics-symmetry-web-application-vuejs.png" alt="React">
+<img src="https://www.mindinventory.com/blog/wp-content/uploads/2023/05/react-logo.webp" width="60" height="60" alt="React">
 <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="60" height="60">
 <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP logo" width="60" height="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="max-width:100%;">
